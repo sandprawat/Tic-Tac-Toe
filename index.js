@@ -5,7 +5,7 @@ let msg = document.querySelector("#msg");
 let msgContainer = document.querySelector(".msg-container");
 
 let turnO = true; //playerX, playerO
-let count = 0; //To Track Draw
+let count = 0; //it use to Track Draw
 
 const winPatterns = [
   [0, 1, 2],
